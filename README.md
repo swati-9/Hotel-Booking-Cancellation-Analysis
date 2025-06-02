@@ -27,7 +27,8 @@ Here are some key questions explored in this project:
 
 ## 🛠️ Technology Used
 
-- **Excel** – Initial data exploration and Data Visualization
+- Excel – Initial data exploration & Data Visualization 
+- Pivot Table 
 
 ## 🔍 Sample Queries to Try (Excel)
 
