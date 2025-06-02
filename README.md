@@ -1,6 +1,6 @@
-# Hotel Booking Cancellation Analysis
+# Hotel Booking Cancellation Analysis(Using Excel)
 
-This project analyzes hotel booking cancellation data to discover patterns and trends related to booking cancellations. The dataset contains various details like customer type, room type, booking dates, lead time, deposit type, and cancellation status.
+This Excel project analyzes hotel booking cancellation data to discover patterns and trends related to booking cancellations. The dataset contains various details like customer type, room type, booking dates, lead time, deposit type, and cancellation status.
 
 ## 📁 Dataset
 
