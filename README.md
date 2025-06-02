@@ -36,6 +36,8 @@ Here are some key questions explored in this project:
 - Analyze lead time vs. cancellation correlation.
 - Compare room types by cancellation rate.
 
+## View Here Dashboard <a href="https://github.com/swati-9/Hotel-Booking-Cancellation-Analysis/blob/main/Screenshot%202025-06-02%20163119.png"> Dashboard </a>
+
 ## 📌 Conclusion
 
 This project helps understand the major factors behind hotel booking cancellations and can aid in building models to predict and reduce them in real-world scenarios.
